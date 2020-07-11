@@ -1,6 +1,6 @@
 {
   "name": "ADAforge",
   "ticker": "ADAF",
-  "description": "No Description",
-  "homepage": "https://notyetavailable"
+  "description": "Cardano stake pool",
+  "homepage": "http://adaforge.spdns.org/stake"
 }
